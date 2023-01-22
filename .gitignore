@@ -1,0 +1,6 @@
+*.gz
+*.json
+__pycache__
+.ipynb_checkpoints
+book_id_map.csv
+goodreads_interactions.csv
